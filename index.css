@@ -55,7 +55,7 @@ div {
     width: 100%;
     padding: 200px;
     margin-top: 70px;
-    background-image: url("/site/images/openimg1.jpg");
+    background-image: url("openimg1.jpg");
     background-position: center;
     background-size: cover;
     align-items: center;
